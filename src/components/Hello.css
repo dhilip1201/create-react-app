@@ -1,0 +1,19 @@
+p.title {
+    font-size: 28px;
+    color: #bc4141;
+    }
+    p.desc {
+    color: #777;
+    font-size: 13px;
+    }
+    .options {
+    border-top: 1px solid #eee;
+    padding: 20px 0;
+    border-bottom: 1px solid #eee;
+    margin-bottom: 20px;
+    }
+    .add-cart p {
+    font-size: 28px;
+    color: #444;
+    margin-right: 15px;
+    }
